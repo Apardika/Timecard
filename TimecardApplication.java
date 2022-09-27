@@ -9,6 +9,7 @@ public class TimecardApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TimecardApplication.class, args);
 		
+		
 	}
 
 }
